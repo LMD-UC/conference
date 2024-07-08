@@ -3049,7 +3049,7 @@ input, select, textarea {
 
 				.features article .image {
 					margin-bottom: 1.5em;
-					margin-left: -1.5em;
+					margin-left: em;
 					margin-top: -1.5em;
 					width: calc(100% + 3em);
 				}
